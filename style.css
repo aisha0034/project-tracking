@@ -37,7 +37,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size:20px;
+    font-size: 20px;
 }
 .list{
     position: absolute;
@@ -94,13 +94,13 @@ margin-top: -8rem;
     font-size: 1.8rem;
     text-transform: uppercase;
     font-weight: 700;
-    padding: 4rem 1.25rem;
+    /* padding: 4rem 1.25rem; */
     border: none;
     outline: none;
-    border-radius: 2.7rem;
+    border-radius: 6rem;
     background-color: var(--very-dark-blue);
-    width:70px;
-    height:40px;
+    width: 70px;
+    height: 40px;
 }
 .monogarph{
     color: var(--gayish-blue);
@@ -183,6 +183,7 @@ nav{
     width: 60%;
     height: 75vh;
     max-height: 50rem;
+    border-radius: 3rem;
 
 }
 .hero{
