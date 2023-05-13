@@ -37,6 +37,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size:20px;
 }
 .list{
     position: absolute;
@@ -98,6 +99,8 @@ margin-top: -8rem;
     outline: none;
     border-radius: 2.7rem;
     background-color: var(--very-dark-blue);
+    width:70px;
+    height:40px;
 }
 .monogarph{
     color: var(--gayish-blue);
